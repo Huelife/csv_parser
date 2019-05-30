@@ -1,2 +1,3 @@
 # csv_parser
-Simple CSV parser
+Simple CSV/TSV parser
+----------------------
